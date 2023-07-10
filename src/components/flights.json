@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "flightNumber": "FL001",
+      "date": "2023-07-10",
+      "time": "09:00",
+      "availableSeats": 60
+    },
+    {
+      "id": 2,
+      "flightNumber": "FL002",
+      "date": "2023-07-10",
+      "time": "12:00",
+      "availableSeats": 40
+    },
+    {
+      "id": 3,
+      "flightNumber": "FL003",
+      "date": "2023-07-11",
+      "time": "15:00",
+      "availableSeats": 10
+    }
+  ]
+  
